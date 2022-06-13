@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Alfredxo
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in blockchain development 
+- 🌱 I’m currently learning Solidity and react.js
+- 💞️ I’m looking to collaborate on web3 projects 
+- 📫 How to reach me Hornealfred7@gmail.com 
 
 <!---
 Alfredxo/Alfredxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
